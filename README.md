@@ -1,7 +1,4 @@
-BAIAP2 and CDC42 in Medulloblastoma: Analysis and Figure Generation
-This repository contains the scripts used for the manuscript titled "The migratory role of BAIAP2 and CDC42 in medulloblastoma."
-
 Overview
-The code provided performs analysis of publicly available datasets and generates key figures related to the role of BAIAP2 and CDC42 in medulloblastoma migration and metastasis.
-
+The code provided performs analysis of publicly available single-cell RNA sequencing datasets (Darmanis 2017) and (Hovestadt 2013) and generates key figures related to the manuscript.
+Overall, the analysis here compared neoplastic MB cells to non-tumor brain cells. This can be used in other contexts to perform differential expression analysis.
 
